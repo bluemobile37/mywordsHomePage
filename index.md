@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+我的生词本 是一款针对英文阅读爱好者定制的记单词APP，也可用于初高中生记生词、强化记忆使用！简单好用是我们的宗旨。
 
-You can use the [editor on GitHub](https://github.com/bluemobile37/mywordsHomePage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+地铁上、公交车上、出租车上，你可以随时打开APP，开始背单词，充分利用碎片化的时间。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###背单词绝没有捷径可走，唯有死记硬背！
 
-### Markdown
+大多数背单词的方法都是在给学生制造幻觉，与传销没有什么区别。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+真正的背单词就是不断的背诵和复习，比你单词量大的人多半都是比你更刻苦，而不是比你记忆力更好。
 
-```markdown
-Syntax highlighted code block
+背单词是极其枯燥无聊的。想要改变这一点很难，实际上之所以会诞生各种所谓的背单词方法和单词记忆大师，就是因为他们是在给学生制造幻觉以为背单词变得有趣了，可能你真的觉得有趣了，但你不一定真的把单词背了下来。所以与其说说改变它，不如规避它。既然枯燥无聊，就不要背得太久，背单词的记忆效率是随时间而下降的，在下降之前最好停止。与其说背1个小时单词，从第10分钟就开始效率下降，不如只背10分钟，但背6个10分钟。利用零碎时间背单词不仅可以提高背记忆效率，还可以帮助高中生更容易挤出时间。
 
-# Header 1
-## Header 2
-### Header 3
+#APP使用技巧
+1. 在其他APP或浏览器中复制单词后，打开“我的生词本”APP会自动提示添加生词。
+2. 在APP首页点击添加按钮，可以主动输入添加生词。
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bluemobile37/mywordsHomePage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#主要功能：
+1.添加生词。
+2.查询单词。
+3.背单词，通过卡片方式记忆单词，非常有效。
+4.单词测试，针对不熟悉的单词强化测试。
+5.听写、默写模式，学生时代的背单词方法。
+6. 归档单词，将已熟记的单词进行归档。
+7.导入导出，可以将单词导出至电脑，并导入到其他手机上。
+8.意见反馈，可以将您的建议反馈给我们，我们将尽全力完善功能。
